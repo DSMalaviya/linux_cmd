@@ -1,0 +1,23 @@
+sudo -i
+
+root user thi enter thava
+
+
+ls           all directrey
+cd           change directry
+pwd          presant directry
+cd ..        back from presant directry
+cd /home/darshan    change path to main dir
+mkdir dir      create directory named dir
+rmdir dir      delete
+cat >file      make file and write antthing   ctr+z to save
+gedit file     file graphically open karva
+ls -l          list all file and dir with specified that   which is file or dir with permissions
+
+ls -a          hidden file
+ls -al         permission with hidden file
+
+ctr+shift+ +   zoom in
+
+clear          screen clear
+
